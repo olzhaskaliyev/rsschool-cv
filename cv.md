@@ -45,4 +45,4 @@ Responsive, Semantic and Valid Layout and Landing Pages
 
 ### Languages
 **Russian** — Native  
-**English** — Low Intermediate (A2+)
+**English** — Lower Intermediate (A2+)
