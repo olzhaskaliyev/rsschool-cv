@@ -1,5 +1,5 @@
 # Olzhas Kaliyev's CV
-**Frontend Developer** (4+ years of HTML/CSS development and 1+ year of JS development)  
+**Frontend Developer** – 4+ years of HTML/CSS development and 1+ year of JS development  
 Single Page Applications (Angular, React, Vue.js)  
 Responsive, Semantic and Valid Layout and Landing Pages  
 
